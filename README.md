@@ -1,5 +1,4 @@
 # Minesweeper (C++ with QT)
-### Author: Vaishnavi Gudimella
 
 ## Project Overview
 This is a **Minesweeper game** built using **C++ and Qt** with the **VSCode** IDE. The game follows the classic Minesweeper rules, where the player must uncover all the safe cells without clicking on a mine.
